@@ -38,3 +38,17 @@ body {
 }
 
 /* 上の部分は気にせずここから書く */
+.box1 {
+  height: 300px;
+  width: 200px;
+  background-color: black;
+  color: white;
+}
+
+.box2 {
+  border: 1px solid black;
+  height: 300px;
+  width: 200px;
+  background-color:white;
+  color:black;
+}
